@@ -17,6 +17,6 @@ Se debe a que, calculando la derivada parcial de cada variable nos dará su resp
 
 Bajo esta regla se garantiza que la nueva solución o el nuevo punto de evaluación sea siempre menor a la solución o punto actual. En la siguiente iteración el nuevo punto de evaluación estará tan lejos del primero dependiendo del valor del learning rate, en esta nueva iteración se repite el mismo proceso usando la información del gradiente y así sucesivamente hasta que se cumpla un numero determinado de iteraciones o la pendiente sea próxima a cero.
 
-#### ¿Qué encontraré en este repositorio?
+#### ¿Qué encontrarás en este repositorio?
 
-Además de la breve explicación mencionada en los párrafos de arriba encontrarás el algoritmo programado en python el cual es explicado e implementado en el video de [Aqui](https://youtu.be/t-n_dY0zinU "Aqui")
+Además de la breve explicación mencionada en los párrafos de arriba encontrarás el algoritmo programado en python el cual es explicado e implementado en el video de [aquí](https://youtu.be/t-n_dY0zinU "aquí")
